@@ -1,0 +1,1 @@
+This module adds support for 'Shadow of the Demon Lord' to [Material Deck](https://github.com/MaterialFoundry/MaterialDeck).
